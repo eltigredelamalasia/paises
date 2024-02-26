@@ -2,16 +2,16 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Kry6_WnfdJJD6Hrsp0HxRpoSq4oj4h39oRW2klUNb7-DX3Q8YKJ2EWmYf0vxX6OHMKfQ4iZJZw=s176-c-k-c0x00ffffff-no-rj" group-title="CHILE"", TVN 24 Horas 
-https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
+https://ythlsgo.onrender.com/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png" group-title="CHILE"", TVN 24 Horas
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/DivHQWmzs3uHKZQfk6BiMnVMHsIU72dWLh0X5rEh4caNkYkfEV-T3nJGDx7mplosBW498zLuLi4=s176-c-k-c0x00ffffff-no-rj" group-title="CHILE"", Meganoticias
-https://ythls.armelin.one/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
+https://ythlsgo.onrender.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWlnvQLsUSWJ58Yq38W7lSVPdAje3cq7Tb9SbbOkQ=s176-c-k-c0x00ffffff-no-rj" group-title="CHILE"", Canal 13   
-https://ythls.armelin.one/channel/UCd4D3LfXC_9MY2zSv_3gMgw.m3u8
+https://ythlsgo.onrender.com/channel/UCd4D3LfXC_9MY2zSv_3gMgw.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w3BIhImK3PM/YKLYqeFgJlI/AAAAAAABCXk/cJQItXH6BeII2A19RmryccG1o54twOSvACK8BGAsYHg/s512/2021-05-17.jpg" group-title="CHILE"", La Red   
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
@@ -852,6 +852,7 @@ https://paneltv.online:1936/8184/8184/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/8d175ca5266fe11e2de8318f0724d96c.png" group-title="CHILE", Enlace BPB 
 https://v1.tustreaming.cl/enlacebpbtv/index.m3u8
+
 
 
 
