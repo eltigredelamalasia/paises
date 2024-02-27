@@ -99,6 +99,9 @@ https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fi14kFHlmlI/XzgjcIL28eI/AAAAAAAA4ZU/8aEsOJObOc8w9ghnCmLa2N_4bcmcVTLbwCK8BGAsYHg/s0/2020-08-15.jpg" group-title="COLOMBIA",  Melody Channel TV 
 https://canal.mediaserver.com.co/live/MelodyChannel.m3u8
 
+#EXTINF:-1 tvg-logo="https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/278022966_393881989407875_4026753574989340289_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeFPl3urn7ZpmeHNTilmpuYtarWmO8BKddlqtaY7wEp12UIaeGwz0r3hDQOMe978bK8&_nc_ohc=Kvl-bskVT7oAX-H96fp&_nc_ht=scontent.faep7-1.fna&oh=00_AfAE_vhMeA8gamedAWnQnUGVuAbpJOwj8Shx0vu_f7CjuA&oe=65E2E0AE" group-title="COLOMBIA",  Moni TV 
+https://play.amelbasoluciones.co:3847/live/monitvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/multicanal.jpg?itok=gMLVDInf" group-title="COLOMBIA", MULTICANAL
 https://ssh101.bozztv.com/ssh101/KIOCApP/chunks.m3u8
 
@@ -131,4 +134,5 @@ https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/play
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/10c25d2283903f2f06871459f16b8391.png" group-title="COLOMBIA", Veo TV
 https://movil.ejeserver.com/live/veotv.m3u8
+
 
