@@ -2225,9 +2225,6 @@ https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xOkdlwpIeM1Do72p9sEkUjRGc83UJCAQA2bwBCvJak9h012FISHmUaJ2vp9Z4W1i6g=s180" group-title="SALTA", NEOX TV SALTA
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPOJ9eEOPcALj1GcLL9pl1jsnpPiyq40VS0emqarg=s176-c-k-c0x00ffffff-no-rj" group-title="SALTA", CANAL 18 DE SALTA
-https://videostream.shockmedia.com.ar:19360/canalglobaltv/canalglobaltv.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.mosconitv.com.ar/template/img/logo/logo_header.svg" group-title="SALTA", MOSCONI TV
 https://panel.dattalive.com/8126/8126/playlist.m3u8
 
@@ -2243,8 +2240,6 @@ https://vivo.solumedia.com:19360/radiosalta/radiosalta.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BmIhf8kYoobAlJbFrrdMKXDCaYmSwNnsXQT31wUD7wT342dw43uL-JWnPVH0-o4Jdhw=s180" group-title="SALTA", 12 TARTAGAL
 https://stream.arcast.host:8443/ciudadfm/ciudadfm.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJW1resMC0_nwiuL4gsCPbdetPH4kbjmnqAJ2xUzOw=s176-c-k-c0x00ffffff-no-rj" group-title="SALTA", Salta Noticias
-https://ythlsgo.onrender.com/channel/UC3WuyLw_1wQnTqYf_1HwPQQ.m3u8
 
 
 
