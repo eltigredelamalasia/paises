@@ -2856,6 +2856,15 @@ https://amg02051-soulpublishing-amg02051c6-samsung-es-267.playouts.now.amagi.tv/
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/fe14daf029d32fcab7f6305dc2e7a86e.png" group-title="ANIME - TEEN", 13 KIDS
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logotipo_Color_2_NTV%28Chile%29.svg/800px-Logotipo_Color_2_NTV%28Chile%29.svg.png" group-title="INFANTIL", NTV
+https://marine2.miplay.cl/ntv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://video-images.vice.com/articles/5bbf5690dc934f000621fc4e/lede/1539266929600-LocomotionGrande.jpeg?crop=0.8888xw:0.9984xh;0.06xw,0.0016xh&resize=500:*" group-title="ANIME - TEEN", locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOJpLEJCsf0Us4F3V5tXbao6q1Uoi-qRHNGjFWWtrmhPofnqI1oNbH-TrVRc3n0Po6c-I&usqp=CAU" group-title="ANIME - TEEN", PANDAMAX TV
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/dios-te-ve-kids.png?itok=xLOZt-hW" group-title="INFANTIL", DIOS TV VE KIDS
 https://s.emisoras.tv:8081/diostevekids/tracks-v1a1/mono.m3u8
 
