@@ -2824,7 +2824,7 @@ https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1300_Moni_TV.png" group-title="INFANTIL", MONI TV
-https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+https://vdo.streaming-chile.com:3056/live/ngencrcbyylive.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1EnoJo4jMvjo5xQbnn5Se7p0SwvAsIxO_RVHzM5I-FQpAah-L7b3rmTxdeTh1CDUvrpE&usqp=CAU" group-title="INFANTIL", Latino Kids TV 
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
