@@ -367,7 +367,7 @@ http://190.90.154.73:8080/play/a02s/index.m3u8
 http://181.205.130.194:4000/play/a085/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png" group-title="DEPORTIVOS", ESPN 6
-http://190.61.57.2:1010/play/a01o/index.m3u8
+http://181.78.208.254:8010/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png" group-title="DEPORTIVOS", ESPN 6
 http://167.250.222.35:16000/play/a07u/index.m3u8 
@@ -376,7 +376,7 @@ http://167.250.222.35:16000/play/a07u/index.m3u8
 http://200.59.188.3:8000/play/a012
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png" group-title="DEPORTIVOS", ESPN 7
-http://190.61.57.2:1010/play/a032/index.m3u8
+http://181.78.208.254:8010/play/a04c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png" group-title="DEPORTIVOS", ESPN 7
 http://181.205.130.194:4000/play/a07s/index.m3u8
@@ -385,7 +385,7 @@ http://181.205.130.194:4000/play/a07s/index.m3u8
 http://181.176.153.106:8090/play/a0jm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/800px-ESPN_Premium_logo.svg.png" group-title="DEPORTIVOS", ESPN PREMIUN 
-http://190.61.57.2:1010/play/a04i/index.m3u8
+http://181.78.208.254:8010/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/800px-ESPN_Premium_logo.svg.png" group-title="DEPORTIVOS", ESPN PREMIUN 
 http://186.148.163.18:8000/play/a050/index.m3u8
@@ -3099,7 +3099,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaT3gx26UVHbEUvVEyoBVsxTXAIK_9zzPX4Ux4TK=s900-c-k-c0x00ffffff-no-rj" group-title="DEPORTIVOS", TV Turf Movil
-https://janus.tvturf.cl/playlist/stream.m3u8
+https://tvturf4.janus.cl/playlist/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1003998133997666304/lQgs94cF_400x400.jpg" group-title="DEPORTIVOS", Valparaiso Sporting
 https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
@@ -3863,8 +3863,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 channel-id="pluto-61b3e21d56fee300087e4cba" tvg-id="61b3e21d56fee300087e4cba" tvg-chno="2720" tvg-logo="https://images.pluto.tv/channels/61b3e21d56fee300087e4cba/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , Corazón turco
 https://stitcher.pluto.tv/stitch/hls/channel/61b3e21d56fee300087e4cba/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 channel-id="pluto-61b3ec5ac547920007daf647" tvg-id="61b3ec5ac547920007daf647" tvg-chno="2205" tvg-logo="https://images.pluto.tv/channels/61b3ec5ac547920007daf647/colorLogoPNG.png" group-title="DEPORTIVOS" , Waypoint TV
-https://stitcher.pluto.tv/stitch/hls/channel/61b3ec5ac547920007daf647/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 channel-id="pluto-61d4b38226b8a50007fe03a6" tvg-id="61d4b38226b8a50007fe03a6" tvg-chno="2535" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG.png" group-title="MUSICA" , Vevo Retro Rock
 https://stitcher.pluto.tv/stitch/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 channel-id="pluto-61d4c2817a823d00070ba53e" tvg-id="61d4c2817a823d00070ba53e" tvg-chno="2525" tvg-logo="https://images.pluto.tv/channels/61d4c2817a823d00070ba53e/colorLogoPNG.png" group-title="MUSICA" , Vevo True School Hip-Hop
