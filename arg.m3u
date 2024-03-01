@@ -2706,6 +2706,15 @@ https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://multivisioncable.com.ar/imagenes/logo.jpg" group-title="CINE", MULTIVISION TELEVISION DIGITAL
 https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/j2gXtBsdNkaCDq-aVGn8IG5tdaj7M4Lz2PpXwKTcB98oH9AAaT6DRakwNRDydHhe9TM" group-title="MUSICA", CADENA ELITE
+https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7Rvs0rCdmfWjm-srLmJ5a2UM8hnvGzLC7QCDrUtBxuclIGymGLjVsVHHrv2kdIDZiQ=w240-h480" group-title="MUSICA", CONECTA TV
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyPP_m1A6CVNImoiYKTv-8WwyVCnTXHGJBbnQcOM_d_1czixonrttAUZO2cfXyAyGZw8I&usqp=CAU" group-title="MUSICA", EL SOL NETWORK TV
+https://server40.servistreaming.com:3031/live/elsolnetworklive.m3u8
+
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/mmc/thumbh_20211119_205542.jpg" group-title="MUSICA", MMC
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmc-distro/07e60396-2050-4e25-aa22-67ccf0791c45/4.m3u8
 
@@ -2825,6 +2834,7 @@ https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1300_Moni_TV.png" group-title="INFANTIL", MONI TV
 https://vdo.streaming-chile.com:3056/live/ngencrcbyylive.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1EnoJo4jMvjo5xQbnn5Se7p0SwvAsIxO_RVHzM5I-FQpAah-L7b3rmTxdeTh1CDUvrpE&usqp=CAU" group-title="INFANTIL", Latino Kids TV 
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
