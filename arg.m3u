@@ -2876,6 +2876,9 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOJpLEJCsf0Us4F3V5tXbao6q1Uoi-qRHNGjFWWtrmhPofnqI1oNbH-TrVRc3n0Po6c-I&usqp=CAU" group-title="ANIME - TEEN", PANDAMAX TV
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png" group-title="ANIME - TEEN", ANIME STATION 
+https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/dios-te-ve-kids.png?itok=xLOZt-hW" group-title="INFANTIL", DIOS TV VE KIDS
 https://s.emisoras.tv:8081/diostevekids/tracks-v1a1/mono.m3u8
 
