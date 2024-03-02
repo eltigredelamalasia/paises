@@ -2085,6 +2085,10 @@ https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---4PO.png"  group-title="MISIONES", Canal 4 Posadas 
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0302
 
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---C6P.png" group-title="MI Misiones"  group-title="MISIONES", Noticias del 6 TV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0303
+
+
 #EXTINF:-1 tvg-logo="https://oberainside.com.ar/wp-content/uploads/2023/01/Identidad.png" group-title="MISIONES", OBERA INSIDE
 https://g5.mc-hor.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/c12_live01-100129_540p.m3u8
 
