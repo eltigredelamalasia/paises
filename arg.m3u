@@ -2413,8 +2413,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0379
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0386
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eltres_RGB-grad_%28positivo%29.png/153px-Eltres_RGB-grad_%28positivo%29.png" group-title="SANTA FE", EL TRES ROSARIO
-https://stream-01.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4LswWr25zIWKXIze6mQ8lz2WycgqMQec6hZfAZdjN1WP8U)/dm/3/x8aobf1/s/live-0.m3u8#cell=lnyc
-
+https://dmxleo.dailymotion.com/cdn/manifest/video/x8aobf1.m3u8?auth=x&cs=dmx_jNdMkcsb1QIARbqlvvK6RAHivcVhymYWcqUgPt2xGHt268I2NHuh5fOuJi5YRP2qGyk3ftP_dEIjB6c61UzU8ueQ7N5POWAvsmohsJz2LSk
 
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/9730866.jpg" group-title="SANTA FE", CANAL LUZ
 https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p/index.m3u8
