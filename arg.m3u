@@ -1619,7 +1619,7 @@ https://online.coopmorteros.coop/freyre/freyre.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTgHZgj0j0s3y22Xu7XjBqMSGaRJJHIdGmkrg&usqp=CAU" group-title="CORDOBA", CANAL 50 MORTEROS
 https://online.coopmorteros.coop/canal50/vivo.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvmanabrasil.com/wp-content/uploads/2023/05/Untitled-1.jpg" group-title="CORDOBA",TV MANA HD
+#EXTINF:-1 tvg-logo="https://tvmanabrasil.com/wp-content/uploads/2023/05/Untitled-1.jpg" group-title="CORDOBA", TV MANA HD
 https://w2.manasat.com:443/tvmana-ar/smil:tvmana-ar.smil/chunklist_w1414594741_b30048000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="Canal20VillaMaria.ar" tvg-logo="https://4.bp.blogspot.com/-j9I0buhulss/VxrWQ9llwXI/AAAAAAAACtQ/L2fSLfI0ujcLQbrzCfw8rX0dx4X1P2jvACLcB/s1600/canal-20-villa-maria-en-vivo.jpg" group-title="CORDOBA", CANAL 20 VILLA MARIA CORDOBA
@@ -1794,8 +1794,8 @@ https://ythlsgo.onrender.com/channel/UCgj6Vesuxfr_fVEp-rG5sxQ.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiogualeguay.com.ar/img/AM.png" group-title="ENTRE RIOS", LT38 RADIO GUALEGUAY
 https://videostream.shockmedia.com.ar:19360/radiogualeguay/radiogualeguay.m3u8
 
-#EXTINF:-1 tvg-logo="https://eldiacdn.eleco.com.ar/eldia-static/images/logo-ahora-cero-radio.png" group-title="ENTRE RIOS", AHORA TV
-https://stream.arcast.live/ahora/ahora/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiocerofm.com/logo-ahora-cero.png" group-title="ENTRE RIOS", AHORA CERO RADIO
+https://stream.arcast.live/eldia/ngrp:eldia_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/W96I3vsMxfSyGbsHHtDibJ_XLT0CUeb62RSYMDsbWLrpt14mnLUR03_ZZuXHvJc9wE7crl3SvA=s176-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", CANAL 4 NOGOYA
 https://stmvideo2.livecastv.com/canal4nogoya/canal4nogoya/playlist.m3u8
@@ -1991,6 +1991,9 @@ https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
 #EXTINF:-1 tvg-logo="https://fmpucara917.com/uploads/logo/logo_5ccca1e3a8bcc.png" group-title="LA RIOJA", FM PUCARA 91.7 CHILECITO
 https://stmvideo1.livecastv.com/fmpucara/fmpucara/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICIU947.png" group-title="LA RIOJA", FM Ciudad 94.7 La Rioja 
+https://stmvideo1.livecastv.com/lariojainforma/lariojainforma/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vfDLTzD8vBWi3gZw21Xi4QQk_Jva3fmrhtCgZQjgIF1kxZ9xsW5fTFvGqIn7sGZ3ZO9ce9HwRA=s176-c-k-c0x00ffffff-no-rj" group-title="LA RIOJA", RADIO GAMA VILLA UNIÓN
 https://ythlsgo.onrender.com/channel/UCVsKOW-o5SZb2wpGmsUWjTw.m3u8
