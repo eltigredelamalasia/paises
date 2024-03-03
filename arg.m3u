@@ -58,11 +58,10 @@ http://emuligl.info:8080/tviritv/td6522SNAtHt/99
 http://emuligl.info:8080/tviritv/td6522SNAtHt/147
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 9
-http://loflato.top:8080/30170595424285/81707068748212/52470
+https://bvsat02.cdn.rcs.net.ar/mnp/mnp/espnpremium/output.mpd
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 10
-http://loflato.top:8080/30170595424285/81707068748212/18394
-
+https://bvsat02.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="LA LLAMA Sports", Tango Sports 
 http://gigitv.top:25461/6Mwg2Y6tAf6U/AjHvAxSPmcqG/316629
