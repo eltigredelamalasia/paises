@@ -2014,9 +2014,7 @@ https://ythlsgo.onrender.com/channel/UCVsKOW-o5SZb2wpGmsUWjTw.m3u8
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0292
 
 #EXTINF:-1 tvg-logo="https://www.elsietetv.com.ar/wp-content/uploads/2019/07/logo_7_1.png" group-title="MENDOZA", EL SIETE MENDOZA
-https://ythlsgo.onrender.com/channel/UC64ZNqX0FQHabP8iIkmnR3AA.m3u8
-
-
+https://ythlsgo.onrender.com/channel/UC64ZNqX0FQHabP8iIkmnR3A.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1517580078317776899/48wDIjEZ_400x400.jpg" group-title="MENDOZA", ACEQUIA TV
 https://ythlsgo.onrender.com/channel/UCrYFBjFOP_zlFzsif9XDhgw.m3u8
@@ -2035,9 +2033,6 @@ https://tvd.uncu.edu.ar/memfs/8f90310c-f1d6-46ff-9fa1-77f07ea80005_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.otrasvocestv.com.ar/wp-content/uploads/2021/01/wprs.png" group-title="MENDOZA", OTRAS VOCES TV
 https://vivo.solumedia.com:19360/otrasvoces/otrasvoces.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/JBx_vll8WvdTTDiq-MvvZWMQ0Ky4DcbIq5iM4CwM95RSKpQBc-krcwQJzmvJGVfAZQ=w526-h296-rw" group-title="MENDOZA", MALBEC PLAY TV
-https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hectorbonarrico.com/wp-content/uploads/2020/06/gg-1.png" group-title="MENDOZA", KINGDOM TV HD  19.1  MENDOZA 
 https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chunks.m3u8
@@ -2062,6 +2057,9 @@ https://cs1.xcast.com.br/7214/7214/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.unidosenlibertad.com/img/LOGO%20RADIO.jpg" group-title="MENDOZA", Unidos en Libertad 104.7 TV 
 https://panel.dattalive.com/8120/8120/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/JBx_vll8WvdTTDiq-MvvZWMQ0Ky4DcbIq5iM4CwM95RSKpQBc-krcwQJzmvJGVfAZQ=w526-h296-rw" group-title="MENDOZA", MALBEC PLAY TV
+https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb4EaO6w6Bj7UNKBJboa_zRt758QIdyVkElkYhkfg=s176-c-k-c0x00ffffff-no-rj" group-title="MENDOZA", TVA MENDOZA (21 A 22 HORAS)
 https://ythlsgo.onrender.com/channel/UCHc44PWOZiC5IRqOXXqkmtQ.m3u8
