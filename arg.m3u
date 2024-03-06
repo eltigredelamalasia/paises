@@ -1508,7 +1508,13 @@ http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1374019613231579138/8hXClQRl_400x400.jpg" group-title="CHACO", CIUDAD TV CHACO
-http://coninfo.net:1935/chacodxdtv/live/chunklist_w594189072.m3u8
+http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1374019613231579138/8hXClQRl_400x400.jpg" group-title="CHACO", CIUDAD TV CHACO
+https://617c5175c970b.streamlock.net:4444/chacodxdtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canalsomosuno.tv/build/img/somosuno.svg" group-title="CHACO", SOMOS UNO TV
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/radioplus1035.com.ar/wp/wp-content/uploads/2021/05/cropped-133737876_867518750733014_8075470442578818509_o-1.jpg?w=512" group-title="CHACO", CANAL 6 PLUS TV  PRESIDENCIA DE LA PLAZA  CHACO
 https://videostream.shockmedia.com.ar:19360/plustv/plustv.m3u8
@@ -1715,8 +1721,11 @@ https://ythlsgo.onrender.com/channel/UC4_l5fsyHwmvwLaUFI7Lrwg.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="CORRIENTES", 13 MAX CORRIENTES
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8  
+#EXTINF:-1 tvg-logo="https://www.13maxtv.com/wp-content/uploads/2023/08/13-max-Logo-2024.svg" group-title="CORRIENTES", 13 MAX CORRIENTES
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://www.13maxtv.com/wp-content/uploads/2023/08/13-max-Logo-2024.svg" group-title="CORRIENTES", 13 MAX CORRIENTES
+https://617c5175c970b.streamlock.net:4444/13maxhd/live13maxtvnuevo_720p/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYx-hvzqop-DMKwpBLQJozqWUTjiQAr-J3mlZA7Gw=s900-c-k-c0x00ffffff-no-rj" group-title="CORRIENTES", T5 SATELITAL
 https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8
@@ -1741,9 +1750,6 @@ https://stmvideo2.livecastv.com/canal7/canal7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS__ROPGPVBMhZtHuunBOtlXI_fT5kcm4H1whDW3rhxoHdIdW0bo4h3PFsUs9z8gv7CPqk&usqp=CAU" group-title="CORRIENTES", TELENORD CORRIENTES
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICNGOYA.png" group-title="CORRIENTES", CN 10 Goya 
-https://streamcasthd.com:19360/canal10goya/canal10goya.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMAXITV.png" group-title="CORRIENTES", Maxima TV
 https://vivo.solumedia.com:19360/maximatv/maximatv.m3u8
