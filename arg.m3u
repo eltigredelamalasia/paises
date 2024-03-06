@@ -1947,7 +1947,7 @@ https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.corpico.com.ar/static/img/tvco-vivo.png" group-title="LA PAMPA", TVO GENERAL PICO
-https://smt-usr-edge02.sensa.com.ar/output/CORPICO/TVCOh/track_0_3000/playlist.m3u8
+https://cdn.sensa.com.ar/output/CORPICO/TVCOh/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ldmtv.com.ar/vivo.jpg" group-title="LA PAMPA", LDM TV LA PAMPA
 https://stream.arcast.host:8443/ldmtv/ldmtv/playlist.m3u8
