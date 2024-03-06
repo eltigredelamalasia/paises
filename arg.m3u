@@ -956,7 +956,11 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="AMBA", PROVINCIAL TV
+https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8    
 
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISANTAM.png" group-title="AMBA", SANTA MARIA
+https://cdn.trimi.com.ar/live/sm-live/SANTA_MARIA/sa_live_hls/SANTA_MARIA.m3u8
 
 #EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2021/07/atvargentina-x1.png" group-title="AMBA", ATV 19.1
 https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
@@ -1000,20 +1004,11 @@ https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mediospublicos.marcospaz.net/images/logos/tv-w.png" group-title="AMBA", TVP MARCOS PAZ 19.1
 https://nd106.republicaservers.com/hls/skerk4747/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/music-21.png" group-title="AMBA", MUSIC 21
-https://vivo.solumedia.com:19360/m21puramusica/m21puramusica.m3u8
-
 #EXTINF:-1 tvg-logo="https://mipaistv.ar/wp-content/uploads/2021/02/cropped-cropped-LOGO-MI-PAIS-TVok.png" group-title="AMBA", MI PAIS TV
 https://panel.dattalive.com/8024/8024/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/vector-gratis/inspiracion-diseno-logotipo-microfono_57043-231.jpg" group-title="AMBA", DEJANDO HUELLAS
 https://inliveserver.com:1936/9014/9014/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="AMBA", PROVINCIAL TV
-https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8    
-
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISANTAM.png" group-title="AMBA", SANTA MARIA
-https://cdn.trimi.com.ar/live/sm-live/SANTA_MARIA/sa_live_hls/SANTA_MARIA.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/enlace.png" group-title="AMBA", ENLACE
 https://livecdn.enlace.plus/enlace/smil:enlace-fhd.smil/playlist.m3u8
