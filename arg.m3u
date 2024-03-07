@@ -70,6 +70,12 @@ https://tvfuego.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="LA LLAMA Sports", Tango Sports 2
 https://tvfuego.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="LA LLAMA Sports", Tango Sports 
+https://router.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="LA LLAMA Sports", Tango Sports 2
+https://router.cdn.rcs.net.ar/mnp/tntsports/output.mpd
+
 
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/AMERICA.png" group-title="NACIONALES", AMERICA HD  36.1
@@ -95,7 +101,7 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 https://itcplay.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" group-title="NACIONALES", CANAL 9  35.1 
-http://lobo-tv.live:8080/Rodolfo01/Rodolfo01/210850
+https://itcplay.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE 34.1
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8  
