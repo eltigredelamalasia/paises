@@ -2078,6 +2078,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0304
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---C6P.png" group-title="MI Misiones"  group-title="MISIONES", Noticias del 6 TV 
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0305
 
+#EXTINF:-1 tvg-logo="https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/335067820_599690868349728_1555943666057106202_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFwUMy2SgPUSikzA8fTvOBtndpvZUSORJyd2m9lRI5EnH8RiPqt5GqcV_YNjhW9VGY&_nc_ohc=xdJOGTDQnUcAX_kxf6-&_nc_ht=scontent.faep7-1.fna&oh=00_AfCN0dyVnR2RrIgyGAzOOifX0vD_KuzmVGR7XbE5-QDbhw&oe=65F20E02" group-title="MISIONES", DEL MONTE DIGITAL OBERA
+https://tv1.conectarmedia.com:19360/delmontedigital/delmontedigital.m3u8
 
 #EXTINF:-1 tvg-logo="https://oberainside.com.ar/wp-content/uploads/2023/01/Identidad.png" group-title="MISIONES", OBERA INSIDE
 https://g5.mc-hor.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/c12_live01-100129_540p.m3u8
