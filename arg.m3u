@@ -353,7 +353,7 @@ http://186.148.163.18:8000/play/a04h/index.m3u8
 http://181.78.208.254:8010/play/a04b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png" group-title="DEPORTIVOS", ESPN 5 
-http://190.90.154.73:8080/play/a02s/index.m3u8
+http://181.205.130.194:4000/play/a07t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png" group-title="DEPORTIVOS", ESPN 5 
 http://181.205.130.194:4000/play/a085/index.m3u8
