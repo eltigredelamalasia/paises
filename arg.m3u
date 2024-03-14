@@ -341,7 +341,7 @@ http://190.109.22.229:9991/play/a062/index.m3u8
 http://186.148.163.18:8000/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="DEPORTIVOS", ESPN 4
-http://181.78.208.254:8010/play/a04r/index.m3u8
+http://190.121.153.89:8000/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="DEPORTIVOS", ESPN 4
 http://177.93.45.155:6143/play/a00h/index.m3u8
@@ -350,7 +350,7 @@ http://177.93.45.155:6143/play/a00h/index.m3u8
 http://186.148.163.18:8000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png" group-title="DEPORTIVOS", ESPN 5 
-http://181.78.208.254:8010/play/a04b/index.m3u8
+http://179.1.87.75:8098/play/a0fu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png" group-title="DEPORTIVOS", ESPN 5 
 http://181.205.130.194:4000/play/a07t/index.m3u8
@@ -359,7 +359,7 @@ http://181.205.130.194:4000/play/a07t/index.m3u8
 http://181.205.130.194:4000/play/a085/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png" group-title="DEPORTIVOS", ESPN 6
-http://181.78.208.254:8010/play/a00q/index.m3u8
+http://179.1.87.75:8098/play/a0fh/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png" group-title="DEPORTIVOS", ESPN 6
 http://167.250.222.35:16000/play/a07u/index.m3u8 
@@ -368,7 +368,7 @@ http://167.250.222.35:16000/play/a07u/index.m3u8
 http://200.59.188.3:8000/play/a012
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png" group-title="DEPORTIVOS", ESPN 7
-http://181.78.208.254:8010/play/a04c/index.m3u8
+http://179.1.87.75:8098/play/a0fg/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png" group-title="DEPORTIVOS", ESPN 7
 http://181.205.130.194:4000/play/a07s/index.m3u8
@@ -377,13 +377,16 @@ http://181.205.130.194:4000/play/a07s/index.m3u8
 http://181.176.153.106:8090/play/a0jm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/800px-ESPN_Premium_logo.svg.png" group-title="DEPORTIVOS", ESPN PREMIUN 
-http://181.78.208.254:8010/play/a05u/index.m3u8
+http://190.121.153.89:8000/play/a03z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/800px-ESPN_Premium_logo.svg.png" group-title="DEPORTIVOS", ESPN PREMIUN 
 http://186.148.163.18:8000/play/a050/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/800px-ESPN_Premium_logo.svg.png" group-title="DEPORTIVOS", ESPN PREMIUN 
 http://181.119.66.30:8000/play/a05k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tycsports.com/files/2020/11/12/138170/uno-contra-uno_862x485.jpg" group-title="DEPORTIVOS", UNO CONTRA UNO TV
+https://ythls.onrender.com/channel/UCavPXO6_Z2cVjT9OVguwXmg.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVw5PciKjB7GzFU383j_dYfN9aVHaBDxGw4vO1imw=s176-c-k-c0x00ffffff-no-rj" group-title="DEPORTIVOS", Carburando (11 a 13)
 https://ythlsgo.onrender.com/channel/UCVHQZIlc766KbxpKQK1on6Q.m3u8
