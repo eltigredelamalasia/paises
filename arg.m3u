@@ -1603,6 +1603,9 @@ https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-294x165-FFFFFF.jpg" group-title="CORDOBA", CIUDAD MAGICA TV
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtPCPndT/casagrandetv.png" group-title="CORDOBA", CASA GRANDE TV
+https://rpn3.bozztv.com/ssh101/ssh101/cgtve/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2020/12/somos-villa-maria.jpg" group-title="CORDOBA", SOMOS VILLA MARIA
 https://stream.arcast.net:4443/villamaria/villamaria/playlist.m3u8
 
