@@ -2470,7 +2470,7 @@ https://panel.dattalive.com:443/8128_1/8128_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.12informa.com.ar/wp-content/uploads/2020/07/logocanal12.png" group-title="SANTA FE", CANAL 12 VENADO TUERTO
 https://nd106.republicaservers.com/hls/diegologonitv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vKM4aV4KOvw4Re4PD_vuKFt-OSBq8HARz2AJMQy5FA9h045M0sTxBJMV2onbzDlRNi8-58F0R6s=s176-c-k-c0x00ffffff-no-rj" group-title="SANTA FE", La Voz de la Región Web
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/e2RMAuoHa1ipT33cEJqqQZPlaR4xD58bBxx8YHP9zd21nzuUH_b7eT_V__G79NWA3Qg_6Zp5Mg=s176-c-k-c0x00ffffff-no-rj" group-title="SANTA FE", La Voz de la Región Web
 https://panel.dattalive.com/8074/8074/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWoAtIdz70XOBYbpsiMug6PraWvCCVGQvNo6fEKq5jvaEttsrEZmotb9AsogSo3-vIjb4&usqp=CAU" group-title="SANTA FE", VER TV VENADO TUERTO
