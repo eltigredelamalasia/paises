@@ -2045,6 +2045,9 @@ https://vivo.solumedia.com:19360/otrasvoces/otrasvoces.m3u8
 #EXTINF:-1 tvg-logo="https://www.hectorbonarrico.com/wp-content/uploads/2020/06/gg-1.png" group-title="MENDOZA", KINGDOM TV HD  19.1  MENDOZA 
 https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chunks.m3u8
 
+#EXTINF:-1 tvg-"logo=https://www.hectorbonarrico.com/wp-content/uploads/2020/06/gg-1.png" group-title="MENDOZA", CANAL 10 SAN RAFAEL
+https://tv.streamcasthd.com:3436/live/tvdiezlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://auroraargentina.com/css//programas/Aurora.png" group-title="MENDOZA", AURORA ARGENTINA 91.3 
 https://live.enhdtv.com:19360/auroraradio/auroraradio.m3u8
 
