@@ -871,13 +871,10 @@ https://bmcc.nhkworld.jp/live2/index_200k.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ntvnews24/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONAL" , Nippon News TV Japon
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/zt2ftWOfxjqnorwb_6SD1-OAQ8FKonDZp3N0J3bj8O0dOVq1pc_lO6kMkb7Jzgveje477bpohQ=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS INTERNACIONAL", CITY TV BOGOTA
-https://ythlsgo.onrender.com/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/myw6vj2/foro-tv.jpg" group-title="NOTICIAS INTERNACIONAL", FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_5.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/DgGenE88XX-G0NldK5vx5NnoiM-UidXoetB0ufkH-GMVxIAVmBmV0K4AR_ABK0boTJiNjoBgDQ=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS INTERNACIONAL", ADN 40 MX
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/NB_eR3rXbLlV-4o0iReSjJEafKBonOwze9FkzHVCfRUxDWO1sSJASibkIpCEsFOpA0Pb4vpq=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS INTERNACIONAL", ADN 40 MX
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tOf0xwci5DiKT1j95Vkw-zHC7v5GNzG8jBpuQT6FjSH4gZnr7ABZ2DOKVX9r07qzZP41Mbtx=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS INTERNACIONAL", CABLENOTICIAS COLOMBIA
@@ -889,8 +886,7 @@ https://ythlsgo.onrender.com/channel/UCTQrUTmzCWIfG6h4EVCdOCQ.m3u8
 #EXTINF:-1 tvg-logo="https://media.telemundo51.com/2022/08/Telemundo-Miami.png?fit=304%2C100&quality=85&strip=all&w=122&h=40" group-title="NOTICIAS INTERNACIONAL", TELEMUNDO FLORIDA
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQk4_K_AfivwBvYh-RCWNhYJfWOszrOqVZL1_LSTQ=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS INTERNACIONAL", MALAGA 24H
-https://ythlsgo.onrender.com/channel/UCoMWImnPAur6JhXDK63dpAg.m3u8
+
 
 
 
