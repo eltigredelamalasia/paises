@@ -2440,7 +2440,7 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ.jpg" group-title="SANTA FE", LITUS TV SANTA FE
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/6a5Ejg2p9cUbYlHMfo6ybdHOWCBB435IEfAtt2cVFgI4ygc68d2ZAzx5-lJrVtUIuxnRVwWZnQ=s176-c-k-c0x00ffffff-no-rj" group-title="SANTA FE", LOTERIA SANTA FE
+#EXTINF:-1 tvg-logo="https://www.loteriasantafe.gov.ar/templates/loteria/images/logo.png" group-title="SANTA FE", LOTERIA SANTA FE
 https://ythlsgo.onrender.com/channel/UCkw6fIWEwQCMacEFLBzLytA.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZT-LGvNW8OI_VHgUwn6wv9p2HzKmN_iYyRLf54D_DA=s176-c-k-c0x00ffffff-no-rj" group-title="SANTA FE", EL LITORAL SANTA FE
