@@ -2166,10 +2166,10 @@ https://inliveserver.com:1936/9004/9004/playlist.m3u8
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/39058098/39058098-1695083482472-82e78fd95d4e5.jpg" group-title="NEUQUEN", RADIO 7 NEUQUEN
-https://stream.arcast.net:4443/radio7neuquen/ngrp:radio7neuquen_all/playlist.m3u8
+https://media.neuquen.gov.ar/rtn/radio//playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8kq7xMEbEEGYNfIy0F7uRErJBGLYeMqvklJ2fSWgCpEDqbzOOrByViH6GXP09mtIAhQe=w240-h480" group-title="NEUQUEN", RTN NEUQUEN
-https://media.neuquen.gov.ar/rtn/radio/playlist.m3u8
+https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb5-vSRK5KLAtpTQoPAsGV3dPKFq8HDrB8hbgKAYw=s176-c-k-c0x00ffffff-no-rj" group-title="NEUQUEN", CN 24/7 NEUQUEN 
 https://panel.dattalive.com/6605140/smil:6605140.smil/playlist.m3u8
