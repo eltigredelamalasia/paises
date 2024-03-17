@@ -838,8 +838,8 @@ http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1rtWgqD.jpg" group-title="NOTICIAS INTERNACIONAL",3/24
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/nSzDKmMAd6VYOXEbK4bPjUsNTPyMS246uuS0Qt5pji020VH9QV06OHrLGmEr_AIovmj6PGIr6AE=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS INTERNACIONAL", Jornalismo VTV SBT
-https://ythlsgo.onrender.com/channel/UC40TUSUx490U5uR1lZt3Ajg.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ll92OqxwOp3LzbIrIYDBO3K5WQK6q7xfJ3DCKrxQ=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS INTERNACIONAL", CNN BRASIL
+https://ythlsgo.onrender.com/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONAL", TV Perú Noticias
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
@@ -863,7 +863,7 @@ https://kan11.media.kan.org.il/hls/live/2024514/2024514/playlist.m3u8
 https://pbc.furrera.ps/palestinehd/index.m3u8
 
 #EXTINF:-1 tvg-logo="hhttps://pbs.twimg.com/profile_images/1475448542227570690/5u-d7ggL_400x400.jpg" group-title="NOTICIAS INTERNACIONAL" , RAI NEWS
-https://vdnisha1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_1800/chunklist.m3u8
+https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/rainews_1800/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="NHK.TV" tvg-logo="https://graph.facebook.com/nhkworld/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONAL" , NHK World Japon
 https://bmcc.nhkworld.jp/live2/index_200k.m3u8
@@ -871,8 +871,8 @@ https://bmcc.nhkworld.jp/live2/index_200k.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ntvnews24/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONAL" , Nippon News TV Japon
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb5KXhTArUUu2a_rUI8MbbjryIEUwqoWj420zGxVHc=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS INTERNACIONAL", MULTIMEDIOS MEXICO
-https://ythlsgo.onrender.com/channel/UCo1nfa1JKNqtcUyLjLwTiIw.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/zt2ftWOfxjqnorwb_6SD1-OAQ8FKonDZp3N0J3bj8O0dOVq1pc_lO6kMkb7Jzgveje477bpohQ=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS INTERNACIONAL", CITY TV BOGOTA
+https://ythlsgo.onrender.com/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/myw6vj2/foro-tv.jpg" group-title="NOTICIAS INTERNACIONAL", FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_5.m3u8
