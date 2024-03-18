@@ -2803,9 +2803,8 @@ https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1363736016155258880/LCGweMBi.jpg" group-title="INFANTIL", EL CHAVO
-https://6362ca6f1fc28.streamlock.net/elchavoplus/elchavoplus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="INFANTIL" , Los Tres Chiflados
+https://stitcher.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png" group-title="INFANTIL", Magic Kids 
 https://magicstream.ddns.net/magicstream/stream.m3u8
@@ -2849,8 +2848,6 @@ https://i.mjh.nz/SamsungTVPlus/ESBC4700001GR.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AgUx16i.png" group-title="ENTRETENIMIENTO", Canal 74 TV 
 https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s281345/images/logod.png?t=638225344170000000" group-title="INFANTIL" , EXTREMA KIDS
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 
@@ -2860,12 +2857,8 @@ https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="INFANTIL", PLANETA TV KIDS
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1300_Moni_TV.png" group-title="INFANTIL", MONI TV
-https://vdo.streaming-chile.com:3056/live/ngencrcbyylive.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1EnoJo4jMvjo5xQbnn5Se7p0SwvAsIxO_RVHzM5I-FQpAah-L7b3rmTxdeTh1CDUvrpE&usqp=CAU" group-title="INFANTIL", Latino Kids TV 
-https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/4b8fc07c5509133947987dc74a770eab.png" group-title="ANIME - TEEN", Energeek Fanpop TV
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
@@ -2878,12 +2871,6 @@ https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w1199347001.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="CINE", Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1335_VariedTV.png" group-title="ANIME - TEEN", VARIED TV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
@@ -3491,8 +3478,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 channel-id="pluto-5f85cf621d6d2200079f1de0" tvg-id="5f85cf621d6d2200079f1de0" tvg-chno="906" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="MUSICA" , Karaoke por Stingray
 https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 channel-id="pluto-5f85f1dc1418bd0007e11eb9" tvg-id="5f85f1dc1418bd0007e11eb9" tvg-chno="108" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="INFANTIL" , Los Tres Chiflados
-https://stitcher.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 channel-id="pluto-5f998c1fc54853000797bacd" tvg-id="5f998c1fc54853000797bacd" tvg-chno="556" tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , Tastemade
 https://stitcher.pluto.tv/stitch/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 channel-id="pluto-5f9992c685a2a80007fa414a" tvg-id="5f9992c685a2a80007fa414a" tvg-chno="256" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" group-title="CURIOSIDAD" , Dog el cazarrecompensas
