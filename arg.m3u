@@ -886,6 +886,9 @@ https://ythlsgo.onrender.com/channel/UCTQrUTmzCWIfG6h4EVCdOCQ.m3u8
 #EXTINF:-1 tvg-logo="https://media.telemundo51.com/2022/08/Telemundo-Miami.png?fit=304%2C100&quality=85&strip=all&w=122&h=40" group-title="NOTICIAS INTERNACIONAL", TELEMUNDO FLORIDA
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/57c240242b6d1a5c925fe521bb936a79a60d1fa5d2ec8e93ee7f5a1c97bd163c.png" group-title="NOTICIAS INTERNACIONAL", TVGE
+https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
+
 
 
 
