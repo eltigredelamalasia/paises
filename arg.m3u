@@ -1796,36 +1796,23 @@ https://ythlsgo.onrender.com/channel/UCWzsoIEZLGLinhYrm66VD4Q.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1455005318002266117/LyDuNBH7_400x400.jpg" group-title="ENTRE RIOS", CANAL 9 PARANA
 https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/29LLOBq7__7PRwaEyRju5pEd0LH8Zo3Q4wQw7Ccs91ppfs_J00Yg4Me8-s-Al-HzKAYg4LHa=s176-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", Canal 6 ERTV
-https://ythlsgo.onrender.com/channel/UCgj6Vesuxfr_fVEp-rG5sxQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.radiogualeguay.com.ar/img/AM.png" group-title="ENTRE RIOS", LT38 RADIO GUALEGUAY
-https://videostream.shockmedia.com.ar:19360/radiogualeguay/radiogualeguay.m3u8
-
 #EXTINF:-1 tvg-logo="https://radiocerofm.com/logo-ahora-cero.png" group-title="ENTRE RIOS", AHORA CERO RADIO
 https://stream.arcast.live/eldia/ngrp:eldia_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/W96I3vsMxfSyGbsHHtDibJ_XLT0CUeb62RSYMDsbWLrpt14mnLUR03_ZZuXHvJc9wE7crl3SvA=s176-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", CANAL 4 NOGOYA
 https://stmvideo2.livecastv.com/canal4nogoya/canal4nogoya/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/794587628427497472/aZ5YVv_e.jpg" group-title="ENTRE RIOS", REMANZO TV HERNANDARIAS ENTRE RIOS
 https://stmvideo1.livecastv.com/remansotv/remansotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://rmu.com.ar/img/logo_1681492529.png" group-title="ENTRE RIOS", RADIO MUSICA UNIVERSAL 
-http://inliveserver.com:1935/9034/9034/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/49365f_c6a2a1b6003947269f4ca8d79fdf0472~mv2.jpg/v1/fill/w_102,h_102,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/logo%20107_5%205_jfif.jpg" group-title="ENTRE RIOS", RMU PARANA
+https://vivo.solumedia.com:19360/rmuenvivo/rmuenvivo.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JNodbQCAQfgECDfw5TwZt2H7F-dzLs81Ta7BEnECbxaQLJNQVLEbWXswRVg3ApwI9vRORZSaJIc=s176-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", ITEL CHAJARI ENTRE RIOS
 http://66.128.32.245/output/iteltv/track_2_4500/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://noticiasgualeguay.com/wp-content/uploads/2019/09/logocanal2-x2.png" group-title="ENTRE RIOS", CANAL 2 GUALEGUAY ENTRE RIOS
 https://stream.arcast.host:8443/gualeguay/gualeguay/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1397368777881362441/a6ckoMxz_400x400.jpg" group-title="ENTRE RIOS", VILLA MANTERO TV
-https://villamanterotv.ddns.net/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCInK8RGqWtu191slIer7HKe6io1ngczZbkQ&usqp=CAU" group-title="ENTRE RIOS", CANAL 5 TV COLONIA AVELLANEDA ENTRE RIOS
-https://panel.dattalive.com/8202/8202/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ep78mkBZgwDl0Lb8uAhwphNfmW0hJDe4gVP5Mudc9UazfQ-TTtaW_goFyBlQZU-Fw9Jp6HFKofg=s176-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", RADIO ZONA FM 99.7 CONCORDIA
 https://streamyes.alsolnet.com/radiozona/live/playlist.m3u8
@@ -1848,17 +1835,11 @@ https://ythlsgo.onrender.com/channel/UCapnd7dvjhAckdgX2ostj3g.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Zm0uYnJhc2lsZXJhX3NjcmVlbl8wXzE1OTEwNjA4MzFfMDkw/screen-0.jpg?fakeurl=1&type=.jpg" group-title="ENTRE RIOS", LA NUEVA FM BRASILERA 106.7 ENTRE RIOS
 https://cs1.xcast.com.br/7662/7662/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t39.30808-6/294310256_479211554206080_4701637096300929904_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEMUlRQpmXFo9BdAK__bILaNQSWy7vEFyc1BJbLu8QXJ7p9zeepYxczdSU04HIjs_g&_nc_ohc=hR-LyFZ7PjUAX9Qy9N2&_nc_ht=scontent.fepa11-1.fna&oh=00_AfBrl42E64MYuvL_Y9gkpQDXk4DnnqbzlQsofzU3D6v4mA&oe=6550A097" group-title="ENTRE RIOS", ORO VERDE FM 104.5
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pk5swcxrnuk2.png" group-title="ENTRE RIOS", ORO VERDE FM 104.5
 https://cs1.xcast.com.br/8488/8488/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://radioplanet.com.ar/wp-content/uploads/2019/06/logoplanet1933_322148843_n-585x605.jpg" group-title="ENTRE RIOS", PLANET 95.1 PARANA
-https://panel.dattalive.com/8108/8108/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.retro.fmradio.com.ar/img/publicidades/512x512.jpg" group-title="ENTRE RIOS", FM Retro TV 106.7
 https://videohd.live:19360/8096/8096.m3u8
-
-#EXTINF:-1 tvg-logo="https://radiolatina.ar/wp-content/uploads/2022/02/radiolatinalogo.png" group-title="ENTRE RIOS", LATINA 98.5 FM PARANA 
-https://cs1.xcast.com.br/7546/7546/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-i_6us5hKR0M/X40Q2cKWFHI/AAAAAAAAP50/yCMLNOmyUhohJFnYsbgZdB_bCNWCNjAJQCLcBGAsYHQ/s0/radio-costa-parana-fm-88-1.png" group-title="ENTRE RIOS", COSTA PARANA 88.1 FM
 https://panel.dattalive.com/8108/8108/playlist.m3u8
