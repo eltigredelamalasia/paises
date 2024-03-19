@@ -3056,9 +3056,11 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-ple
 
 
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uYQh7gCFq6lKgn6DoEY2BFMrUsghGcy5IVuuaVy-egVfWtp085SRl4FzTJNjf1qhIpm7FkDr=s176-c-k-c0x00ffffff-no-rj" group-title="URUGUAY", CIUDAD TV
+https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzEwODY5NTM0JnJhbmRvbT1vU2F6Q2NkdnJwJmMtaXA9MTgxLjExNy4xNjcuNTgmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMjgwJnB1YmxpY19pZD0yc2dzbSwyY2Y3ZTMzYTAxYmZhNTI0ZmNmYTQ4YzdmZWFmZmVlOTQ0MjdhMDMxMTNlZDY3OTgzYjRlNjlhN2QzNzFkYWFi/vxfmt=hls/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uYQh7gCFq6lKgn6DoEY2BFMrUsghGcy5IVuuaVy-egVfWtp085SRl4FzTJNjf1qhIpm7FkDr=s176-c-k-c0x00ffffff-no-rj" group-title="URUGUAY", CIUDAD TV
+https://ythlsgo.onrender.com/channel/UCcEFFCUo9fD5DK1FcclyKUA.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1382698919474380800/ZQ-bfjHp_400x400.jpg" group-title="URUGUAY", UCL TV
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
