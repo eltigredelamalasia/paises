@@ -3062,8 +3062,14 @@ https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uYQh7gCFq6lKgn6DoEY2BFMrUsghGcy5IVuuaVy-egVfWtp085SRl4FzTJNjf1qhIpm7FkDr=s176-c-k-c0x00ffffff-no-rj" group-title="URUGUAY", CIUDAD TV
 https://ythlsgo.onrender.com/channel/UCcEFFCUo9fD5DK1FcclyKUA.m3u8
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-n-ToclaJnhU/YTo17oV6nPI/AAAAAAAAQgk/YKWlAtGijwkfrlfVixbJ4sK3uYB9cKXDwCLcBGAsYHQ/s1152/canal-tvflorida-en-vivo_optimized.jpg" group-title="URUGUAY", TVF FLORIDA UY
+https://stmv1.srvif.com/tv6842/tv6842/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1382698919474380800/ZQ-bfjHp_400x400.jpg" group-title="URUGUAY", UCL TV
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/300640754_371522888517838_6889520694039382142_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFCbscOv5yZe1t9CZohsst8aEIkxrdE24toQiTGt0Tbi3cfeEW4glU3ueN74wzgqCc&_nc_ohc=k5wdHtjHXrMAX-UELpj&_nc_ht=scontent.faep7-1.fna&oh=00_AfCDnYPDtUCK6zCC0bPPx6Q8rkaQCfi3Jh6UnrpbyyqmEw&oe=65FD918A" group-title="URUGUAY", TELE 8 MERCEDES
+http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_db459382223d48f092d71151178a3797~mv2.png/v1/crop/x_0,y_108,w_1080,h_846/fill/w_1080,h_846,al_c,q_90,enc_auto/b22f37_db459382223d48f092d71151178a3797~mv2.png" group-title="URUGUAY", Latino Kids TV 
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
