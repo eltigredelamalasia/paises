@@ -186,6 +186,9 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/Mq0oDJsOGLGwmqR3jljjd/3b623163d3192f59a41720d0418c2813/canal-volver.png?fm=webp&q=80" group-title="NACIONALES" , VOLVER
 https://nxt.plus:8443/alexandrawwr/223348/213163
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyA0yLEFkoeDQ21OO58jFWhEC-AXY7JYpr28PqcYHPnoKZn1HeeeXiscIhtdZUj-L95yKDbIYDRevdLU9zZu-uJj3RmYouA3kwyMDxOHCGcZYG2b0ZfHfOD-NfnRn6dsKVq1jCHe_ktc66hd5HAbuHgL8UZ-rAw7RboDwO93vUg13CW6X1Se9k61_oCGE/s200/kzo-2019-removebg-preview.png" group-title="NACIONALES", KZO
+http://190.94.186.158:9981/play/a037/88972272.m3u8
+
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE PLUTO TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613237a1c9e0db0007a91350livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
