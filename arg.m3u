@@ -63,7 +63,17 @@ http://spaticplas.org:8080/CDCA-VALLEJO/CDCA-VALLEJO/99
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 10
 http://spaticplas.org:8080/CDCA-VALLEJO/CDCA-VALLEJO/147
 
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 11
+https://supporttv.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 12
+https://supporttv.cdn.rcs.net.ar/mnp/tntsports/output.mpd
+
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 13
+https://bvsat.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
+
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 14
+https://bvsat.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
 
 
