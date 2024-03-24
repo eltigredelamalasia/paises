@@ -1976,8 +1976,14 @@ https://stmvideo1.livecastv.com/fmpucara/fmpucara/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICIU947.png" group-title="LA RIOJA", FM Ciudad 94.7 La Rioja 
 https://stmvideo1.livecastv.com/lariojainforma/lariojainforma/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiolibertadlarioja.com.ar/wp-content/uploads/2023/05/cropped-LOGO-RADIO-LIBERTAD-NUEVO1-transp.png" group-title="LA RIOJA", RADIO LIBERTAD La Rioja 
+https://stmvideo1.livecastv.com/libertad/libertad/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vfDLTzD8vBWi3gZw21Xi4QQk_Jva3fmrhtCgZQjgIF1kxZ9xsW5fTFvGqIn7sGZ3ZO9ce9HwRA=s176-c-k-c0x00ffffff-no-rj" group-title="LA RIOJA", RADIO GAMA VILLA UNIÓN
 https://ythlsgo.onrender.com/channel/UCVsKOW-o5SZb2wpGmsUWjTw.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.elindependiente.com.ar/assets/img-min/logo/default-logo-medios.png" group-title="LA RIOJA", RADIO INDEPENDIENTE TV
+https://inliveserver.com:1936/12008/12008/playlist.m3u8
 
 
 
