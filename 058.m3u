@@ -7,6 +7,500 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(FOX_S
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="LA LLAMA Sports", Tango Sports 2
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TNT_SPORTS)/index.m3u8
 
+#EXTINF:-1,TV Publica
+http://cdn.stg.cvattv.com.ar/live/live2/Canal7/SA_Live_fta/index.m3u8
+http://edge1.stg.cvattv.com.ar/live/live2/Canal7/SA_Live_fta/index.m3u8
+varias calidades
+#EXTINF:-1,Claro Sports1
+https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/master.m3u8
+http://iptvhd.club:8443/televall2021/154_.m3u8?
+token=5U0hga0zNrsoZToJukk1kw&expires=1629840349 ======
+http://blackghost.live/play/futvall-833.php?id=clarosports&f=.m3u8
+variascalidades
+#EXTINF:-1,Claro Sports2
+https://claro-jw.cdn.vustreams.com/live/channel06/live.isml/master.m3u8
+variascalidades
+#EXTINF:-1,Claro Sports3
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+variascalidades
+#EXTINF:-1,Claro Sports4
+https://claro-jw.cdn.vustreams.com/live/channel08/live.isml/master.m3u8
+variascalidades
+#EXTINF:-1,Afizzionados-america-mx
+http://balancer1.iptvmx.com:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
+1280*720
+#EXTINF:-1 group-title="Lista 14",TYC SPORTS | HD
+************************************************************************
+http://195.181.163.39:80/ARG-TYCSPORTS/index.m3u8
+#EXTINF:-1 group-title="Lista 14",ESPN1 MX | HD
+http://195.181.163.39:80/DEP_Espn_HD/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="ESPN1 SUR"
+http://134.19.182.131:8080/vdg13.m3u8?h=1ab5f35cd62f7eefbf2ff57c1bb4f9a3?
+SBN*****************************************
+http://195.181.163.39/DEP_ESPN_ARG/index.m3u8
+#EXTINF:-1,Espn2-sur-arg
+http://195.181.163.39/DEP_ESPN_2_ARG/index.m3u8
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPN2/hls/index.m3u8
+1280*720
+espn extra-latino
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPNEXTRA/hls/index.m3u8
+#EXTINF:-1,Espn3-sur-arg
+http://195.181.163.39/DEP_ESPN_3_ARG/index.m3u8
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPN3/hls/index.m3u8
+1280*720
+#EXTINF:-1,Fox Sports MX
+http://balancer1.iptvmx.com:8081/tecno/FoxSports1.BKR/chunks.m3u8
+1280*720
+#EXTINF:-1,Fox Sports MX 2
+http://balancer1.iptvmx.com:8081/tecno/FoxSports2.BKR/chunks.m3u8
+1280*720
+#EXTINF:-1,Fox Sports MX 3
+http://balancer1.iptvmx.com:8081/tecno/FoxSports3.BKR/chunks.m3u8
+1280*720
+#EXTINF:-1,Fox Sports-arg
+https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORTS/hls/index.m3u8
+varias calidades
+http://195.181.163.39/DEP_FOX_SPORTS_ARG/index.m3u8
+1280*720
+#EXTINF:-1,Fox Sports 2-arg
+https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORT2/hls/index.m3u8
+http://195.181.163.39/DEP_FOX_SPORTS_2_ARG/index.m3u8
+960*540
+#EXTINF:-1,Fox Sports 3-arg
+https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORT3/hls/index.m3u8
+http://195.181.163.39/DEP_FOX_SPORTS_3_ARG/index.m3u8
+960*540
+#EXTINF:-1,TNT Sports-arg
+http://195.181.163.39:80/DEP_TNT_SPORTS/index.m3u8
+http://195.181.163.39/CHI-CDF/index.m3u8?token=37241bf72dac16fb7a8bdf0cdad6f3c7
+960*540
+#EXTINF:-1,tvg-id="" tvg-name="WIN SPORTS +
+http://23.237.132.90:8081/live/win_sp_plus_eowhnre/playlist.m3u8
+win sports
+http://195.181.163.39/DEP_WIN_SPORTS/index.m3u8
+#EXTINF:-1,DirecTV Sports-
+ecuador********************************************************************
+http://195.181.163.39/ECU-DIRECTTV_SP1/index.m3u8
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+http://iptvhd.club:8443/televall2021/8_.m3u8?
+token=zA9LevBygNySqnXBr7VQbw&expires=1629839274 =====
+http://blackghost.live/play/futvall-833.php?id=directv&f=.m3u8
+1280*720
+#EXTINF:-1,DirecTV Sports 2-
+ecuadro**********************************************************************
+http://195.181.163.39/ECU-DIRECTTV_SP2/index.m3u8
+1280*720
+#EXTINF:-1,tvg-id="" tvg-name="DIRECTV SPORTS PLUS
+http://195.181.163.39/DEP_DIRECTV_PLUS/index.m3u8
+http://23.237.132.90:8081/live/dt_sp_plus_ehwkth/playlist.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="BEIN SPORTS Ñ " tvg-logo="" group-title "DEPORTES"
+http://138.0.229.88:8000/play/a02o/index.m3u8**************************************
+****************
+http://23.237.132.90:8081/live/BEIN_HD/playlist.m3u8
+http://195.181.163.39:80/DEP_BEIN_DEPORTES/index.m3u8
+http://iptvhd.club:8443/televall2021/593_.m3u8?
+token=OSFAAxlOgilhIoxVWP8Xtw&expires=1629838733 =====
+http://blackghost.live/play/futvall-833.php?id=beines&f=.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="ECDF " tvg-logo="" group-title "DEPORTES"
+http://23.237.132.90:8081/live/el_canal_de_futbol/playlist.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="TUDN " tvg-logo="" group-title "DEPORTES"
+http://23.237.132.90:8081/live/tudn_ehgqnfqwe/playlist.m3u8
+https://futbollibre.net/en-vivo/tudn/embed.html
+http://iptvhd.club:8443/televall2021/167_.m3u8?
+token=mW2pNRd1OAfRrxLTTP0PKg&expires=1629841084 =============
+http://blackghost.live/play/futvall-833.php?id=tudn-mx&f=.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="VTV PLUS " tvg-logo="" group-title "DEPORTES"
+http://23.237.132.90:8081/live/vtv_plus/playlist.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="VTV " tvg-logo="" group-title "DEPORTES"
+http://23.237.132.90:8081/live/vtv/playlist.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="GOL PERU " tvg-logo="" group-title "DEPORTES"
+http://23.237.132.90:8081/live/gol_peru_sd/playlist.m3u8
+http://195.181.163.39:80/DEP_GOL_TV/index.m3u8
+tygo sports
+https://playback2.akamaized.net/streams/28858495_9035716_lsirh8imuqbmng5tfr4_1/mast
+er.m3u8?
+dw=80&hdnts=exp=1630449607~acl=/streams/28858495_9035716_lsirh8imuqbmng5tfr4_1/mast
+er.m3u8*~hmac=7b14a08c03c0a480863a41abbf9ae5cd4dbcfe7077ece3d14b121e42bc92e33a
+#EXTINF:-1, STARZ SUSPENSE
+http://23.237.132.90:8081/PREMIUM/stz_suspence/playlist.m3u8
+#EXTINF:-1, STARZ ENCORE
+http://23.237.132.90:8081/PREMIUM/stz_encore/playlist.m3u8
+#EXTINF:-1, STARZ
+http://23.237.132.90:8081/PREMIUM/stz/playlist.m3u8
+#EXTINF:-1, STARZ EDGE
+http://23.237.132.90:8081/PREMIUM/stz_edge/playlist.m3u8
+#EXTINF:-1, STAR COMEDY
+http://23.237.132.90:8081/PREMIUM/STAR_COMEDY_TWO/playlist.m3u8
+http://balancer1.iptvmx.com:8081/tecno/FOXCOMEDY.TecnoByte/chunks.m3u8
+#EXTINF:-1, STAR CLASIC
+http://23.237.132.90:8081/PREMIUM/STAR_CLASIC_TWO/playlist.m3u8
+1920*1080
+#EXTINF:-1,Star Channel
+http://cdn.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
+varias calidades
+http://23.237.132.90:8081/ENTRETENIMIENTO/STAR_CHENNEL_TWO/playlist.m3u8
+1920*1080
+http://195.181.163.39/LAT_Fox_HD/index.m3u8
+1920*1080
+#EXTINF:-1,Star Action
+https://cdn.stg.cvattv.com.ar/live/live2/FoxActionHD/SA_Live_fta/index.m3u8
+varias calidades
+http://23.237.132.90:8081/PREMIUM/STAR_ACTION_TWO/playlist.m3u8
+1280*720
+http://balancer1.iptvmx.com:8081/tecno/FoxAction.Tecnobyte/chunks.m3u8
+1280*720
+#EXTINF:-1,Star Life
+http://23.237.132.90:8081/ENTRETENIMIENTO/STAR_LIFE_TWO/playlist.m3u8
+1920*1080
+http://195.181.163.39/LAT_Fox_Life_HD/index.m3u8
+1920*1080
+#EXTINF:-1,Star Fun
+http://23.237.132.90:8081/PREMIUM/STAR_FUN_TWO/playlist.m3u8
+1920*720
+http://balancer1.iptvmx.com:8081/tecno/FoxFamily.Tecnobyte/chunks.m3u8
+1280*720
+#EXTINF:-1,Star Series
+http://23.237.132.90:8081/PREMIUM/STAR_SERIES_TWO/playlist.m3u8
+1280*720
+http://balancer1.iptvmx.com:8081/tecno/FoxSeries.Tecnobyte/chunks.m3u8
+1280*720
+#EXTINF:-1, HBO EXTREME
+http://23.237.132.90:8081/PREMIUM/HBO_XTREME_TWO/playlist.m3u8
+1920*1080
+#EXTINF:-1, HBO MUNDI
+http://23.237.132.90:8081/PREMIUM/HBO_MUNDI_TWO/playlist.m3u8
+544*306
+#EXTINF:-1,HBO
+http://23.237.132.90:8081/PREMIUM/HBO_TWO/playlist.m3u8
+1280*720
+http://balancer1.iptvmx.com:8081/tecno/HBO.Tecnobyte/chunks.m3u8
+1280*720
+#EXTINF:-1,HBO 2
+http://23.237.132.90:8081/PREMIUM/HBO2_TWO/playlist.m3u8
+1280*720
+http://balancer1.iptvmx.com:8081/tecno/Hbo2.Tecnobyte/chunks.m3u8
+1280*720
+#EXTINF:-1,HBO Plus
+http://23.237.132.90:8081/PREMIUM/HBO_PLUS_TWO/playlist.m3u8
+1200*720
+http://balancer1.iptvmx.com:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
+1280*720
+#EXTINF:-1,HBO Signature
+http://23.237.132.90:8081/PREMIUM/HBO_SIGNATURE_TWO/playlist.m3u8
+1280*720
+http://balancer1.iptvmx.com:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
+1280*720
+#EXTINF:-1,HBO Family
+http://23.237.132.90:8081/PREMIUM/HBO_FAMILY_TWO/playlist.m3u8
+1280*720
+http://balancer1.iptvmx.com:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
+1280*720
+#EXTINF:-1,HBO Pop
+http://23.237.132.90:8081/PREMIUM/HBO_POP_TWO/playlist.m3u8
+1280*720
+http://balancer1.iptvmx.com:8081/tecno/HBOPOP.Tecnobyte/chunks.m3u8
+1280*720
+#EXTINF:-1,Space
+http://cdn.stg.cvattv.com.ar/live/live2/Space/SA_Live_fta/index.m3u8
+varias calidades
+http://195.181.163.39/LAT_Space_HD/index.m3u8
+1280*1080
+#EXTINF:-1,TNT
+http://cdn.stg.cvattv.com.ar/live/live2/TNT/SA_Live_fta/index.m3u8
+varias calidades
+http://195.181.163.39/LAT_TNT_HD/index.m3u8
+1920*1080
+#EXTINF:-1,TNT Series
+http://195.181.163.39/LAT_TNT_Series_HD/index.m3u8
+1920*1080
+#EXTINF:-1,Cinecanal
+http://cdn.stg.cvattv.com.ar/live/live2/CinecanalHD/SA_Live_fta/index.m3u8
+1920*1080
+http://23.237.132.90:8081/PREMIUM/CINECANAL1_TWO/playlist.m3u8
+640*480
+http://195.181.163.39/LAT_Cinecanal_HD/index.m3u8
+1920*1080
+#EXTINF:-1, CINEMAX
+http://23.237.132.90:8081/ENTRETENIMIENTO/CINEMAX_TWO/playlist.m3u8
+1920*1080
+#EXTINF:-1,Golden Edge
+https://qlobbidev.s.llnwi.net/bpk-tv/GEDGE/hls/index.m3u8
+1280*720
+#EXTINF:-1,Golden Plus
+http://balancer1.iptvmx.com:8081/tecno/GoldenPlus.TecnoByte/chunks.m3u8
+1280*720
+#EXTINF:-1,Golden Premier
+http://balancer1.iptvmx.com:8081/tecno/GoldenPremier.Tecnobyte/chunks.m3u8
+1280*720
+#EXTINF:-1,Golden
+https://qlobbidev.s.llnwi.net/bpk-tv/GOLDEN/hls/index.m3u8
+640*480
+1280*720
+#EXTINF:-1, PARAMOUNT
+http://23.237.132.90:8081/PREMIUM/PARAMOUNT_TWO/playlist.m3u8
+#EXTINF:-1,Azteca 7
+http://195.181.163.39/LAT_Azteca_7_HD/index.m3u8
+1920*1080
+#EXTINF:-1,Azteca Corazon
+https://qlobbidev.s.llnwi.net/bpk-tv/AZCORAZON/hls/index.m3u8
+640*480
+720*480
+#EXTINF:-1,Azteca Clic
+https://qlobbidev.s.llnwi.net/bpk-tv/AZLIC/hls/index.m3u8
+640*480
+1280*720
+#EXTINF:-1,Azteca Cinema
+https://qlobbidev.s.llnwi.net/bpk-tv/AZCINEMA/hls/index.m3u8
+640*480
+720*480
+#EXTINF:-1,Azteca Mundo
+https://qlobbidev.s.llnwi.net/bpk-tv/AZMUNDO/hls/index.m3u8
+640*480
+720*480
+#EXTINF:-1,De Película
+https://qlobbidev.s.llnwi.net/bpk-tv/DEPELICULA/hls/index.m3u8
+640*480
+1280*720
+#EXTINF:-1 tvg-id="Dummy" tvg-
+logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/featuredImage.jpg"
+group-title="PLUTO TV", Los archivos del FBI
+https://service-
+stitcher.clusters.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?
+terminate=false&deviceId=1f6f4d73-d90a-4870-9068-
+7a83a04aefe8&deviceVersion=84.0.4147.125&appVersion=5.6.0-
+05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=d5a7e
+331-f1bc-461f-87d1-3fc99ef6b364&advertisingId=&deviceLat=25.7633&deviceLon=-
+100.2784&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSid
+eAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 tvg-id="Dummy" tvg-
+logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/featuredImage.jpg"
+group-title="PLUTO TV", Cine Terror
+https://service-
+stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?
+terminate=false&deviceId=1f6f4d73-d90a-4870-9068-
+7a83a04aefe8&deviceVersion=84.0.4147.125&appVersion=5.6.0-
+05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=d5a7e
+331-f1bc-461f-87d1-3fc99ef6b364&advertisingId=&deviceLat=25.7633&deviceLon=-
+100.2784&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSid
+eAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 tvg-id="Dummy" tvg-
+logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/featuredImage.jpg"
+group-title="PLUTO TV", Cine Suspenso
+https://service-
+stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?
+terminate=false&deviceId=1f6f4d73-d90a-4870-9068-
+7a83a04aefe8&deviceVersion=84.0.4147.125&appVersion=5.6.0-
+05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=d5a7e
+331-f1bc-461f-87d1-3fc99ef6b364&advertisingId=&deviceLat=25.7633&deviceLon=-
+100.2784&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSid
+eAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1,Las Estrellas
+https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
+640*480
+1280*720
+#EXTINF:-1,Disney XD
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/index.m3u8
+640*480
+1280*720
+#EXTINF:-1,Disney Channel
+http://cdn.stg.cvattv.com.ar/live/live2/DisneyChannelHD/SA_Live_fta/index.m3u8
+varias caldidades
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYCHANNEL/hls/index.m3u8
+1280*720
+#EXTINF:-1,Disney Junior
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYJUNIOR/hls/index.m3u8
+640*480
+1280*720
+#EXTINF:-1,National Geographic
+https://qlobbidev.s.llnwi.net/bpk-tv/NATGEO/hls/index.m3u8
+640*480
+1280*720
+#EXTINF:-1,Nat Geo Wild
+https://qlobbidev.s.llnwi.net/bpk-tv/NATGEOWILD/hls/index.m3u8
+640*480
+1280*720
+#EXTINF:-1,NatGeo HD
+http://cdn.stg.cvattv.com.ar/live/live2/NatGeoHD/SA_Live_fta/index.m3u8
+varias calidades
+#EXTINF:-1,Distrito Comedia
+https://qlobbidev.s.llnwi.net/bpk-tv/HISTORY2/hls/index.m3u8
+640*480
+720*480
+#EXTINF:-1,Venus
+https://qlobbidev.s.llnwi.net/bpk-tv/VENUS/hls/index.m3u8
+640*480
+720*480
+#EXTINF:-1,AMC
+https://qlobbidev.s.llnwi.net/bpk-tv/AMC/hls/index.m3u8
+640*480
+720*480
+#EXTINF:-1,Canal RCN
+https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/index.m3u8
+640*480
+1280*720
+#EXTINF:-1,FX
+https://qlobbidev.s.llnwi.net/bpk-tv/FX/hls/index.m3u8
+640*480
+720*480
+#EXTINF:-1,Europa Europa
+https://qlobbidev.s.llnwi.net/bpk-tv/EUROPA/hls/index.m3u8
+640*480
+#EXTINF:-1,DHE
+https://qlobbidev.s.llnwi.net/bpk-tv/DHE/hls/index.m3u8
+640*480
+720*480
+#EXTINF:-1,History HD
+http://cdn.stg.cvattv.com.ar/live/live2/HistoryHD/SA_Live_fta/index.m3u8
+http://iptvhd.club:8443/televall2021/167_.m3u8?token=GnwxAy2ppgg4u7-
+orMYHLA&expires=1630375473
+http://iptvhd.club:8443/televall2021/124_.m3u8?
+token=FGds5wIn1J2j7WUghlR5gw&expires=1630375130
+http://iptvhd.club:8443/televall2021/645_.m3u8?
+token=cMBtemJ6ORDoEmwT5OeEAg&expires=1630374617
+http://iptvhd.club:8443/televall2021/751_.m3u8?
+token=XKSjfukn5FdRrgpqQk38OQ&expires=1630375419
+varias calidades
+#EXTINF:-1,Discovery HD
+http://cdn.stg.cvattv.com.ar/live/live2/DiscoveryHD/SA_Live_fta/index.m3u8
+varias claidades
+#EXTINF:-1,Discovery H&H HD
+http://edge1.stg.cvattv.com.ar/live/live2/DiscoveryHomeHealthHD/SA_Live_fta/index.m
+3u8
+http://cdn.stg.cvattv.com.ar/live/live2/DiscoveryHomeHealthHD/SA_Live_fta/index.m3u
+8
+varias calidades
+#EXTINF:-1,MTV
+http://195.181.163.39/LAT_MTV_HD/index.m3u8
+1920*1080
+#EXTINF:-1,TLC
+http://195.181.163.39/LAT_TLC_HD/index.m3u8
+1920*1080
+#EXTINF:-1,Boomerang
+http://195.181.163.39/LAT_Boomerang_HD/index.m3u8
+1920*1080
+#EXTINF:-1,ADN 40 mx
+http://balancer1.iptvmx.com:8081/tecno/ADN40.TecnoByte/chunks.m3u8
+1280*720
+#EXTINF:-1,A&E
+http://cdn.stg.cvattv.com.ar/live/live2/AEHD/SA_Live/index.m3u8
+1920*1080
+http://195.181.163.39/LAT_A&E_HD/index.m3u8
+1920*1080
+#EXTINF:-1,Lifetime
+http://195.181.163.39/LAT_Lifetime_HD/index.m3u8
+1920*1080
+#EXTINF:-1,Telemundo
+http://balancer1.iptvmx.com:8081/tecno/Telemundoint.TecnoByte/chunks.m3u8
+1280*720
+#EXTINF:-1,Studio Universal
+http://balancer1.iptvmx.com:8081/tecno/StudioUniversal.TecnoByte/chunks.m3u8
+1280*720
+#EXTINF:-1,canal5
+http://balancer1.iptvmx.com:8081/tecno/Canal5.TecnoByte/chunks.m3u8
+1280*720
+#EXTINF:-1,Nick
+http://balancer1.iptvmx.com:8081/tecno/Nick.TecnoByte/chunks.m3u8
+1280*720
+#EXTINF:-1,Telefé
+http://balancer1.iptvmx.com:8081/tecno/Telefe.TecnoByte/chunks.m3u8
+1280*720
+#EXTINF:-1,Antena 3
+http://balancer1.iptvmx.com:8081/tecno/Antena3.TecnoByte/chunks.m3u8
+1280*720
+#EXTINF:-1,Gala TV
+http://balancer1.iptvmx.com:8081/tecno/GalaTV.TecnoByte/chunks.m3u8
+1280*720
+#EXTINF:-1,Canal Once-mx noticias
+http://balancer1.iptvmx.com:8081/tecno/Canal11.TecnoByte/chunks.m3u8
+1280*720
+#EXTINF:-1,DeporTV HD
+http://cdn.stg.cvattv.com.ar/live/live2/DeporTVHD/SA_Live_fta/index.m3u8
+3 calidades
+#EXTINF:-1,Trece HD
+http://cdn.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/index.m3u8
+1920*1080
+#EXTINF:-1,Telefe HD
+http://cdn.stg.cvattv.com.ar/live/live2/TelefeHD/SA_Live_fta/index.m3u8
+varias calidades
+#EXTINF:-1,Todo Noticias HD
+http://cdn.stg.cvattv.com.ar/live/live2/TodoNoticias/SA_Live_fta/index.m3u8
+varias calidades
+#EXTINF:-1,Canal 9
+http://cdn.stg.cvattv.com.ar/live/live2/Canal9/SA_Live_fta/index.m3u8
+varias calidades
+
+foxsport2
+https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORT2/hls/index.m3u8
+foxsports
+https://abr-f.eu-central-
+1.edge.mycdn.live/eiplus/f2571d325f08fe99d4fdf518cf370db3/playlist.m3u8
+TUDN - CANAL MEXICANO
+https://akamai2-br.cdn.booyah.live/hls/1000035/74727476.m3u8
+https://futbolenlinea.000webhostapp.com/M3U8panel/embed.php?
+data=vqFu5qTWEGJARR9DorMgfDwjmPOwnFzl0DmorbJwlHy2INbBplrR75ibf5YKuiDiiQp/fQ0lFa6VR8
+dJa2aCZRTPQnvu/Ix+XZ9pAPOSuDve48oqR415Rv46bCQAyjW3SVfDv/S1+ppDG2KcSP9hsdJntUs3SvQdI
++aUmUhSYyFdpzA2ilMZHDivuc4eOIA/E1NM6dTJTbLHk5RZe2rXvTbVTkZ8495kxB7jIK//XYw=
+CANAL DE COLOMBIA (CARACOL HD):
+https://cdn.chatytvgratis.net/caracol01.php?width=640&height=360
+https://cdn.chatytvgratis.net/caracol02.php?width=640&height=360
+ESPN
+https://pelotero.net/espnhd.php
+ESPN2
+https://pelotero.net/espn2hd.php
+ESPN3
+https://pelotero.net/espn3hd.php
+https://e10.cdnfoxtv.me/ingestnb4s/espn3_sur/f.m3u8
+TNT-SPORTS-HD CHILE
+https://pelotero.net/cdf.php
+TNT SPORTS
+https://tnb.blowerclaster.xyz/flow.html?
+get=Ly9lZGdlLXZvZDAxLXNsLmN2YXR0di5jb20uYXIvbGl2ZS9jM2Vkcy9UTlRfU3BvcnRzX0hEL1NBX0x
+pdmVfZGFzaF9lbmNfMkEvVE5UX1Nwb3J0c19IRC5tcGQ=&__cf_chl_managed_tk__=c6d3e082a2ccd73
+9e20a9e95729ebad026e1f075-1625366198-0-AdBBTpY0hlMxkt-
+dZ4KBEjahknhnYNqabiIpTC9oSxMZENY2_2w4JAu5E3nwskt3CmEI9wInAwBp0icewE9juQJhtwMU5J3gf0
+pMv6bdwpBIevbvY0GIgAOg05_0gi2TB-
+vaRDvkpR08gV8KG3Xc6wkLH5XkeOnZ1h3Tn6RKahWtEZKvvKSgPG5Dthqf96_n-
+VD0ZwwjwA87FtpLmNy7B4doXo0XW02RHgCa0vdDKUB0HoulZSqinRAbJXtVnl9wleXLyT7cZn0CymFOJmI4
+Sxq7IISAyhpjreyr6pbqijCj_yIpp_X9KzsU2lcuYQZaX0RJYUbio2lZumZcIo54iGzWMFMNfa3YNR8z8e6
+zi-JY2EW9lH5BuIKq0Uv-3vkMhWM3VV_fr852FJ3QOV_LGthLGb8nYgeE1AON-
+u20trvhimiH0Pu2AcLnUYSyumPogYBQazZ71DwA80IIpnowCbn0djWSWH9XAvKNjGbxpKJ-
+JB91u6uW9axa-
+LteKgeD0OHYc0ErrQIDOFam3H9rBLVeEaTOUzK0atpnVr8AciEtqn9iMQgemHzogQE8cKIdW7ttA_H0riJC
+XvvjWDX1TUZCH5uRFUwpV5-dxSHACRP72JxoLyp1-
+3nr6NseXqffvqbbGWf5x9aH7VFG2AB2JhsWBLXs9OEafT9UbgWbh0YSmORj34mktL3Xa5G29wddQVXlrQrL
+Vr-Tj_oLL2MKgG9smppf0DXXW0ShqAA3zClvB3CLsZPZQbUX7WUZgzfUvFVZFXcP9M6gV8JuBD0j-
+nZuvckKsshDwZbNvozAWvtD
+WIN SPORTS: CANAL COLOMBIANO
+https://futbollibre.net/en-vivo/win-sports-premium/embed.html
+TUDN
+copa america-eurocopa-
+https://futbollibre.net/en-vivo/tudn/embed.html
+var src = "https://edge-
+linear.spectrum.net/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd
+TYC SPORTS
+https://cdn14.esp-cdn.xyz/?g=embed/p/100005.html
+https://i.futbollibre.net/tycjson.html
+https://pelotero.net/directvsports.php
+DIRECT-TV
+https://g2.futbolargento.com/dtvjson.html#https://televisionlibre.net/embed/hlsplay
+er.html?
+get=aHR0cHM6Ly9lbWIzZGZ1dGIwbDFicmUuYmxvZ3Nwb3QuY29tLw==#https://embed6fl.blogspot.
+com/#https://int21h.blowerclaster.xyz/embed/D1.html
+https://g2.futbolargento.com/dtvjson.html
+https://embed6fl.blogspot.com/
+https://int21h.blowerclaster.xyz/embed/D1.html
+https://i.futbollibre.net/dtvjson.html
+https://bird-12.frge.io/
+https://televisionlibre.net/embed/hlsplayer.html?
+get=aHR0cHM6Ly9lbWIzZGZ1dGIwbDFicmUuYmxvZ3Nwb3QuY29tLw==
+https://embed5fl.blogspot.com/
+https://int21h.blowerclaster.xyz/embed/D1.html
+https://pelotero.net/directvsports.php
+DIRECT-TV-2
+https://embed4fl.blogspot.com/
+https://televisionlibre.net/embed/hlsplayer.html?
+get=aHR0cHM6Ly9lbWJlZDVmbC5ibG9nc3BvdC5jb20v
+
 
 
 
