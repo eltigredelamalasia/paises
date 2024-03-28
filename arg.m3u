@@ -960,7 +960,7 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 https://vd01.streaminghd.net.ar:3787/live/jcslppmtlive.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TV_PUBLICA.jpg" group-title="TDA NACIONAL", TV PUBLICA 23.1
-https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
+https://ythlsgo.onrender.com/channel/UCs231K71Bnu5295_x0MB5Pg.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.construirtv.com/wp-content/uploads/2020/03/Logo_300.png" group-title="TDA NACIONAL", CONSTRUIR TV 23.2
 https://supporttv.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
