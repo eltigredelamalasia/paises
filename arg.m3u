@@ -318,10 +318,10 @@ http://181.78.105.146:2000/play/a064/index.m3u8
 http://186.148.163.18:8000/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="DEPORTIVOS", ESPN 2
-http://181.78.105.146:2000/play/a063/index.m3u8
+http://186.148.163.18:8000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="DEPORTIVOS", ESPN 2
-http://200.52.148.194:8000/play/a054/index.m3u8
+http://138.59.177.34:8000/play/a059/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="DEPORTIVOS", ESPN 2
 http://200.4.217.20:8000/play/a009/index.m3u8
@@ -336,10 +336,10 @@ http://201.159.113.219:49000/play/a02e/index.m3u8
 http://186.148.163.18:8000/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="DEPORTIVOS", ESPN 4
-http://201.159.113.219:49000/play/a041/index.m3u8
+http://186.148.163.18:8000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="DEPORTIVOS", ESPN 4
-http://201.159.113.219:49000/play/a041/index.m3u8
+http://190.121.153.89:8000/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="DEPORTIVOS", ESPN 4
 http://186.148.163.18:8000/play/a04h/index.m3u8
@@ -348,10 +348,10 @@ http://186.148.163.18:8000/play/a04h/index.m3u8
 http://179.1.87.75:8098/play/a0fu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png" group-title="DEPORTIVOS", ESPN 5 
-
+http://181.205.130.194:4000/play/a085/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png" group-title="DEPORTIVOS", ESPN 5 
-http://181.205.130.194:4000/play/a085/index.m3u8
+http://190.121.153.89:8000/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png" group-title="DEPORTIVOS", ESPN 6
 http://179.1.87.75:8098/play/a0fh/index.m3u8
